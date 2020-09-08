@@ -6,4 +6,5 @@ Requires you to download the board.bin file
 
 Currently tested and works on:
 -Ubuntu 20.04
--Kali 20.03
+
+-Kali 2020.3
