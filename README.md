@@ -5,6 +5,7 @@ A simple bash script that will autofix wifi not working after a fresh install of
 Requires you to download the board.bin file
 
 Currently tested and works on:
+
 -Ubuntu 20.04
 
 -Kali 2020.3
