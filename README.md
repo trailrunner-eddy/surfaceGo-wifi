@@ -1,8 +1,10 @@
-# surface-wifi
+# surfaceGo-wifi
 
 A simple bash script that will autofix wifi not working after a fresh install of Linux on a Surface Go tablet.
 
-Requires you to download the board.bin file
+Download the board.bin file: http://www.killernetworking.com/support/K1535_Debian/board.bin
+
+If you are connected via Ethernet then the script can download the board.bin file as well. (That one pulls from this repo though)
 
 Currently tested and works on:
 
